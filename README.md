@@ -94,7 +94,9 @@ Serial.println(digitalStatus == HIGH ? "HIGH" : "LOW");
 
 ## Chart
 
-![Chart](https://github.com/Customize5773/Microcontroller-Condition-Monitoring-System/blob/525e4b0c8f595b70875e3219b9058f975204c7f9/docs/Chart%20Monitoring%20for%201%20Hour.png)
+![Chart1](https://github.com/Customize5773/Microcontroller-Condition-Monitoring-System/blob/525e4b0c8f595b70875e3219b9058f975204c7f9/docs/Chart%20Monitoring%20for%201%20Hour.png)
+
+![Chart2](https://github.com/Customize5773/Microcontroller-Condition-Monitoring-System/blob/f4615d906f3d22453c1e47f3a722671f070f78ba/docs/Chart%20Monitoring%20for%201%20Hour(2).png)
 
 ## Notes
 - LM35 temperature range: 2°C to 150°C
