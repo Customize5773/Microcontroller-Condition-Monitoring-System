@@ -1,5 +1,7 @@
 # Microcontroller-Condition-Monitoring-System
 
+![Circuit](https://github.com/Customize5773/Microcontroller-Condition-Monitoring-System/blob/32e4649d161aaa68e0b511c8fac27acc5fe8bd62/docs/MonitorArduino.png)
+
 Reads temperature from an LM35 sensor and digital input status from pin D2, displaying formatted results in the Serial Monitor.
 
 ## Overview
