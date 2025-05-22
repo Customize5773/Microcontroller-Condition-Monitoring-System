@@ -92,6 +92,10 @@ Serial.println(digitalStatus == HIGH ? "HIGH" : "LOW");
    Temperature: 23.50°C    |    D2 Status: LOW
    ```
 
+## Chart
+
+![Chart](https://github.com/Customize5773/Microcontroller-Condition-Monitoring-System/blob/525e4b0c8f595b70875e3219b9058f975204c7f9/docs/Chart%20Monitoring%20for%201%20Hour.png)
+
 ## Notes
 - LM35 temperature range: 2°C to 150°C
 - Default reference voltage: 5V (Arduino UNO)
